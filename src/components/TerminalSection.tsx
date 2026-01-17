@@ -33,9 +33,9 @@ export default function TerminalSection() {
                 <span>aegis init --mode=strict</span>
               </div>
               <div className="text-slate-500 mt-2">
-                 > Detecting architecture... <span className="text-white">Next.js 14</span><br/>
-                 > Injecting middleware... <span className="text-white">Done</span><br/>
-                 > Establishing secure tunnel... <span className="text-neon-cyan">Connected</span>
+                 &gt; Detecting architecture... <span className="text-white">Next.js 14</span><br/>
+                 &gt; Injecting middleware... <span className="text-white">Done</span><br/>
+                 &gt; Establishing secure tunnel... <span className="text-neon-cyan">Connected</span>
               </div>
               <div className="mt-4 flex gap-2">
                 <span className="text-neon-green">$</span>

@@ -83,9 +83,9 @@ export default function Hero() {
                    </div>
                 </div>
                 <div className="pt-4 text-xs text-slate-500">
-                  > scanning ports... done<br/>
-                  > optimizing firewall rules... done<br/>
-                  > <span className="text-neon-green">system secure</span><span className="animate-pulse">_</span>
+                  &gt; scanning ports... done<br/>
+                  &gt; optimizing firewall rules... done<br/>
+                  &gt; <span className="text-neon-green">system secure</span><span className="animate-pulse">_</span>
                 </div>
              </div>
              
