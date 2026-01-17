@@ -1,4 +1,4 @@
-import { Globe, ShieldCheck, Zap, AlertTriangle } from 'lucide-react';
+import { Globe, ShieldCheck, AlertTriangle } from 'lucide-react';
 
 export default function ThreatMonitor() {
   return (
